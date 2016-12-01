@@ -7282,7 +7282,7 @@ body.boxed .products-grid.product-variant-5 .product-item.large .product-item-no
     margin-right: 10px;
     z-index: 10;
   }
-  .products-grid.product-variant-5 .product-item.large.hovered {
+  /*.products-grid.product-variant-5 .product-item.large.hovered {
     z-index: 10;
   }
   .products-grid.product-variant-5 .product-item.large.hovered .product-item-info {
@@ -7327,7 +7327,7 @@ body.boxed .products-grid.product-variant-5 .product-item.large .product-item-no
   }
   .products-grid.product-variant-5 .product-item.large.hovered.with-previews .product-item-details {
     padding-top: 0;
-  }
+  }*/
   .products-grid.product-variant-5 > .slick-list {
     z-index: 1000;
     position: relative;

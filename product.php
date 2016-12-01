@@ -10,14 +10,14 @@
   <div class="products-grid-wrapper isotope-wrapper">
     <div class="products-grid four-in-row product-variant-5 isotope">
 
-      <div class="product-item large  tag-filter-adidas  tag-filter-black  tag-filter-dresses  tag-filter-jackets  tag-filter-journal  tag-filter-m  tag-filter-s  tag-filter-sale  tag-filter-tabgrid  tag-filter-tops  tag-filter-under-100  tag-filter-women ">
+      <div class="product-item large">
         <div class="product-item-inside">
           <div class="product-item-info">
             <div class="product-item-photo">
               <!-- <div class="product-item-label label-sale">
               <span>NEW</span>
             </div> -->
-            <div class="carousel-inside slide" data-ride="carousel">
+            <div class="carousel-inside">
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
                   <a href="/products/backless-mini-dress">
@@ -64,8 +64,6 @@
           </div>
         </div>
       </div>
-
-
 
 
       <!-- End Product !-->
