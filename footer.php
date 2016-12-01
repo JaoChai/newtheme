@@ -4,18 +4,15 @@
             <div class="row">
               <div class="col-md-4">
                   <h3>Facebook</h3>
-                    <a class='twitter-timeline' href='https://twitter.com/ThemeForest' data-chrome='transparent nofooter noborders noheader noscrollbar' data-tweet-limit='1' data-widget-id='677235277925113856'>Tweets by @ThemeForest</a> <script> !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs'); </script>
               </div>
 
                 <div class="col-md-4">
                   <h3>GOOGLE+</h3>
-                    <a class='twitter-timeline' href='https://twitter.com/ThemeForest' data-chrome='transparent nofooter noborders noheader noscrollbar' data-tweet-limit='1' data-widget-id='677235277925113856'>Tweets by @ThemeForest</a> <script> !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs'); </script>
                 </div>
 
 
                 <div class="col-md-4">
                     <h3>Twitter</h3>
-                    <a class='twitter-timeline' href='https://twitter.com/ThemeForest' data-chrome='transparent nofooter noborders noheader noscrollbar' data-tweet-limit='1' data-widget-id='677235277925113856'>Tweets by @ThemeForest</a> <script> !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs'); </script>
                 </div>
 
             </div>
@@ -27,22 +24,46 @@
             <div class="row">
                 <div class="col-md-3 col-lg-3">
                     <div class="footer-block  collapsed-mobile">
-                        <div class='title'><h4>INFORMATION</h4><div class='toggle-arrow'></div></div><div class='collapsed-content'><ul class='marker-list'><li><a href='#'>About Us</a></li><li><a href='#'>Customer Service</a></li><li><a href='#'>Privacy Policy</a></li><li><a href='#'>Site Map</a></li><li><a href='#'>Search Terms</a></li></ul></div>
+                        <div class='title'><h4>Quick Links</h4><div class='toggle-arrow'></div></div>
+                        <div class='collapsed-content'>
+                          <ul class='marker-list'>
+                            <li><a href='#'>สมัครเลย!</a></li>
+                            <li><a href='#'>BidCups คืออะไร</a></li>
+                            <li><a href='#'>สินค้าประมูล</a></li>
+                            <li><a href='#'>Bid ยังไงให้ชนะ</a></li>
+                          </ul>
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-lg-3">
                     <div class="footer-block  collapsed-mobile">
-                        <div class='title'><h4>MY ACCOUNT</h4><div class='toggle-arrow'></div></div><div class='collapsed-content'><ul class='marker-list'><li><a href='#'>About Us</a></li><li><a href='#'>Customer Service</a></li><li><a href='#'>Privacy Policy</a></li><li><a href='#'>Site Map</a></li><li><a href='#'>Search Terms</a></li></ul></div>
+                        <div class='title'><h4>About</h4><div class='toggle-arrow'></div></div>
+                        <div class='collapsed-content'>
+                          <ul class='marker-list'>
+                            <li><a href='#'>เกี่ยวกับเรา</a></li>
+                            <li><a href='#'>นโยบาย</a></li>
+                          </ul></div>
                     </div>
                 </div>
                 <div class="col-md-3 col-lg-3">
                     <div class="footer-block  collapsed-mobile">
-                        <div class='title'><h4>CUSTOMER CARE</h4><div class='toggle-arrow'></div></div><div class='collapsed-content'><ul class='marker-list'><li><a href='#'>About Us</a></li><li><a href='#'>Customer Service</a></li><li><a href='#'>Privacy Policy</a></li><li><a href='#'>Site Map</a></li><li><a href='#'>Search Terms</a></li></ul></div>
+                        <div class='title'><h4>Support</h4><div class='toggle-arrow'></div></div>
+                        <div class='collapsed-content'>
+                          <ul class='marker-list'>
+                            <li><a href='#'>กฏทางเว็บไซต์</a></li>
+                            <li><a href='#'>ข้อตกลง และเงื่อนไข</a></li>
+                          </ul>
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-lg-3">
                     <div class="footer-block  collapsed-mobile">
-                        <div class='title'><h4>CONTACT US</h4><div class='toggle-arrow'></div></div><div class='collapsed-content'><ul class='simple-list'><li><i class='icon icon-phone'></i>+01 234 567 89</li><li><i class='icon icon-close-envelope'></i><a href='mailto:support@seiko.com'>support@bidcups.com</a></li><li><i class='icon icon-clock'></i>8:00 - 19:00, Monday - Saturday</li></ul></div>
+                        <div class='title'><h4>CONTACT US</h4><div class='toggle-arrow'></div></div>
+                        <div class='collapsed-content'>
+                          <ul class='simple-list'>
+                            <li><i class='icon icon-phone'></i>02-12345678</li>
+                            <li><i class='icon icon-close-envelope'></i>support@bidcups.com</li>
+                            <li><i class='icon icon-clock'></i>8:00 - 19:00, Monday - Saturday</li></ul></div>
                     </div>
                 </div>
             </div>

@@ -6,19 +6,26 @@
       <div class="swiper-container">
         <div class="swiper-wrapper">
 
-          <div class="swiper-slide" data-thumb="//cdn.shopify.com/s/files/1/1323/8471/t/12/assets/slide_preview_1.jpg?18321598552377106331">
+          <div class="swiper-slide">
             <div class="wrapper">
-              <figure><img src="//cdn.shopify.com/s/files/1/1323/8471/t/12/assets/slide_1.jpg?18321598552377106331" alt="" /></figure>
+              <figure><img src="assets/images/11.jpg" alt="" /></figure>
             </div>
           </div>
 
-          <div class="swiper-slide" data-thumb="//cdn.shopify.com/s/files/1/1323/8471/t/12/assets/slide_preview_1.jpg?18321598552377106331">
+          <div class="swiper-slide">
             <div class="wrapper">
-              <figure><img src="//cdn.shopify.com/s/files/1/1323/8471/t/12/assets/slide_2.jpg?18321598552377106331" alt="" /></figure>
+              <figure><img src="assets/images/12.jpg" alt="" /></figure>
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="wrapper">
+              <figure><img src="assets/images/13.jpg" alt="" /></figure>
             </div>
           </div>
 
     </div>
+    
     <div class="swiper-pagination"></div>
     <!-- <div class="swiper-pagination-thumbs"><div class="thumbs-wrapper"><div class="thumbs"></div></div></div> -->
   </div>

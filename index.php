@@ -13,48 +13,26 @@
     <div class='container'>
       <div class='row'>
 
-        <div class='col-sm-3'>
-          <div class='box style2 bgcolor1 text-center'>
-            <div class='box-icon'>
-              <i class='icon icon-truck'></i></div><h3 class='box-title'>100% Fair Auctions</h3>
-              <div class='box-text'>การรันตีความโปร่งใส</div></div></div>
-
-              <div class='col-sm-3'>
-                <div class='box text-center style2 bgcolor2'>
-                <div class='box-icon'><i class='icon icon-dollar'></i></div><h3 class='box-title'>3 Days Delivery</h3>
-                <div class='box-text'>จัดส่งทั่วประเทศไทย</div>
-                </div>
-             </div>
-
-              <div class='col-sm-3'><div class='box text-center style2 bgcolor2'>
-                  <div class='box-icon'><i class='icon icon-dollar'></i></div><h3 class='box-title'>Product Warranty</h3>
-                  <div class='box-text'>รับประกันสินค้าทุกชื้น</div>
-                  </div>
-              </div>
-
-              <div class='col-sm-3'>
-                  <div class='box text-center style2 bgcolor3'>
-                    <div class='box-icon'><i class='icon icon-help'></i></div><h3 class='box-title'>ONLINE SUPPORT</h3>
-                  <div class='box-text'>ติดต่อเราได้เมื่อมีปัญหา</div>
-                </div>
-              </div>
-
-            </div>
+        <div class='col-sm-12'>
+          <img src="assets/images/1.png" class="img-responsive" ></img>
+        </div>
           </div>
         </div>
+      </div>
 
+<br /><br />
 
         <div class="block">
           <div class="container">
             <div class="row">
 
               <div class="col-sm-6">
-                  <img src="assets/images/test1.png"></img>
+                  <img src="assets/images/test1.png" class="img-responsive"></img>
               </div>
 
 
               <div class="col-sm-6">
-                  <img src="assets/images/test2.png"></img>
+                  <img src="assets/images/test2.png" class="img-responsive" ></img>
               </div>
 
 
@@ -62,12 +40,7 @@
           </div>
         </div>
 
-
-
-
-
-
-        <br><br>
+<br /><br />
         <!-- End Welcome!-->
 
 

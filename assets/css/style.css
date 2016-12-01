@@ -4452,7 +4452,7 @@ ul.marker-list li a:before {
   transition: all 0.2s ease;
 }
 ul.marker-list li a:hover {
-  color: #f82e56;
+  color: #ff1010;
   text-decoration: none;
 }
 ul.marker-list li {
@@ -4467,7 +4467,7 @@ ul.marker-list li a:hover:before {
   top: 12px;
   width: 10px;
   height: 4px;
-  background-color: #f82e56;
+  background-color: #ff1010;
 }
 ul.simple-list {
   margin: 0;
@@ -4488,7 +4488,7 @@ ul.simple-list i.icon {
   display: inline-block;
   vertical-align: inherit;
   font-size: 13px;
-  color: #f82e56;
+  color: #ff1010;
   margin: 0 10px 0 0;
 }
 ul.marker-simple-list {

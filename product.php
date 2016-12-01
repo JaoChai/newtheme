@@ -21,7 +21,7 @@
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
                   <a href="/products/backless-mini-dress">
-                    <img class="product-image-photo" src="//cdn.shopify.com/s/files/1/1323/8471/products/10_large.jpg?v=1471090777">
+                    <img class="product-image-photo" src="assets/images/iphone.jpg">
                   </a>
                 </div>
               </div>
@@ -38,7 +38,7 @@
           <div class="product-item-details">
             <div class="product-item-name">
               <a title="Backless mini dress" href="#" class="product-item-link">
-                Backless mini dress</a>
+                iPhone 6</a>
               </div>
 
               <div class="price-box">
@@ -46,7 +46,7 @@
                   <span class="price-wrapper ">
 
                     <span class=""><span class=money>สินค้าราคา 10000</span></span>
-                    
+
                     <p>
                       <span class="special-price"><span class=money>฿27.00</span></span>
                     </p>
