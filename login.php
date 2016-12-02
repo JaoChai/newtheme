@@ -9,8 +9,6 @@
       <li><a href="/"  title="Back to the frontpage"><i class="icon icon-home"></i></a></li>
    <li>
 
-
-   /
    <span>Account</span>
 
 
@@ -80,9 +78,6 @@
             </form>
 
           </div> -->
-
-
-
 
         </div>
       </div>
