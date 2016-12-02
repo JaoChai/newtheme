@@ -25,7 +25,7 @@
           </div>
 
     </div>
-    
+
     <div class="swiper-pagination"></div>
     <!-- <div class="swiper-pagination-thumbs"><div class="thumbs-wrapper"><div class="thumbs"></div></div></div> -->
   </div>

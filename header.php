@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <link rel="shortcut icon" href="assets/images/logo.png" type="image/png" />
+  <link rel="shortcut icon" href="assets/images/icon.png" type="image/png" />
   <title>BidCups</title>
 
   <!-- Social meta ================================================== -->
