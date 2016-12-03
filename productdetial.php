@@ -1,222 +1,240 @@
 <?php include('header.php');?>
 <?php include('topheader.php');?>
 
+<div class="block">
+  <div class="container">
+    <ul class="breadcrumbs">
+
+    </ul>
+  </div>
+</div>
+
+
+
+<div itemscope itemtype="http://schema.org/Product">
+  <meta itemprop="url" content="https://seikostore-default.myshopify.com/products/contrast-dress-shirt">
+  <meta itemprop="image" content="//cdn.shopify.com/s/files/1/1323/8471/products/89_grande.jpg?v=1471115180">
+
+
+  <div class="block product-block">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6 col-md-4 col-lg-4">
+          <!-- Product Gallery -->
+          <div class="main-image">
+            <img src="//cdn.shopify.com/s/files/1/1323/8471/products/89_1024x1024.jpg?v=1471115180" alt="Contrast Dress Shirt"  class="zoom" data-zoom-image="//cdn.shopify.com/s/files/1/1323/8471/products/89_1024x1024.jpg?v=1471115180">
+          </div>
+
+
+
+          <!-- <img alt="" src="//cdn.shopify.com/s/files/1/1323/8471/products/89_1024x1024.jpg?v=1471115180" style="display: none" />
+
+
+          <img alt="" src="//cdn.shopify.com/s/files/1/1323/8471/products/87_82f2e3cf-e13f-40ab-9d3a-30560788f858_1024x1024.jpg?v=1471115180" style="display: none" />
+
+
+          <img alt="" src="//cdn.shopify.com/s/files/1/1323/8471/products/88_1024x1024.jpg?v=1471115180" style="display: none" />
+
+          <div class="product-previews-wrapper">
+          <div class="product-previews-carousel" id="previewsGallery">
+
+          <a href="#" data-image="//cdn.shopify.com/s/files/1/1323/8471/products/89_1024x1024.jpg?v=1471115180" data-zoom-image="//cdn.shopify.com/s/files/1/1323/8471/products/89_1024x1024.jpg?v=1471115180"><img src="//cdn.shopify.com/s/files/1/1323/8471/products/89_medium.jpg?v=1471115180" alt="" /></a>
+
+          <a href="#" data-image="//cdn.shopify.com/s/files/1/1323/8471/products/87_82f2e3cf-e13f-40ab-9d3a-30560788f858_1024x1024.jpg?v=1471115180" data-zoom-image="//cdn.shopify.com/s/files/1/1323/8471/products/87_82f2e3cf-e13f-40ab-9d3a-30560788f858_1024x1024.jpg?v=1471115180"><img src="//cdn.shopify.com/s/files/1/1323/8471/products/87_82f2e3cf-e13f-40ab-9d3a-30560788f858_medium.jpg?v=1471115180" alt="" /></a>
+
+          <a href="#" data-image="//cdn.shopify.com/s/files/1/1323/8471/products/88_1024x1024.jpg?v=1471115180" data-zoom-image="//cdn.shopify.com/s/files/1/1323/8471/products/88_1024x1024.jpg?v=1471115180"><img src="//cdn.shopify.com/s/files/1/1323/8471/products/88_medium.jpg?v=1471115180" alt="" /></a>
+
+        </div>
+      </div>  -->
+
+      <!-- /Product Gallery -->
+    </div>
+    <div class="col-sm-6 col-md-8 col-lg-5">
+      <div itemprop="offers" itemscope itemtype="#">
+
+        <meta itemprop="priceCurrency" content="USD">
+        <link itemprop="availability" href="#">
+        <div class="product-info-block classic">
+          <div class="product-info-top">
+
+            <!-- <div class="product-sku">SKU: <span>#0031</span></div> -->
 
 
 
 
+          </div>
+
+          <div class="product-name-wrapper" style="text-align:center;">
+            <h1 itemprop="name" class="product-name">Contrast Dress Shirt</h1>
+            <div class="product-labels">
+              <!--<span class="product-label sale">Sale</span>!-->
+            </div>
+          </div>
+
+
+          <div class="product-availability">
+          </div>
+
+
+
+          <div class="countdown-circle">
+            <div class="countdown-wrapper">
+              <div class="countdown" data-countdown="2016/12/31"></div>
+              <!-- <div class="countdown-text">
+
+              <div class="text1">Discount 23% OFF</div>
+              <div class="text2">Have time to buy!</div>
+            </div> -->
+          </div>
+        </div>
+
+
+        <form action="#" method="post" enctype="multipart/form-data">
+          <div class="product-options swatches ">
+            <!-- Time !-->
+            <script>
+            var product_options = [];
+            </script>
+            <br/>
+            <div class="price" >
+              <span class="special-price"> <span class=money>฿77.00</span></span>
+            </div>
+
+            <div class="mem" >
+              <span class="special-price"> <span class=money>ผู้ชนะ</span></span>
+              <span class="special-price"> <span class=money>Toh</span></span>
+              <br/> <br/>
+              <span class="special-price">
+                <div>
+                  <a class="btn btn-lg" style="width:200px;"></i>
+                    <span>BID</span></a>
+                  </div>
+                </span>
+              </div>
+            </div>
+
+            <!-- <div class="product-actions">
+            <div class="row">
+            <div class="col-md-6">
+            <div class="product-meta">
+            <span>
+            <a href="#" title="Add to Wishlist" class="no_wishlist"> <i class="icon icon-heart"></i><span>Add to Wishlist</span> </a>
+          </span>
+        </div>
+      </div>
+
+
+      <div class="col-md-6">
+      <div class="price" itemprop="price" content="77">
+      <span class="old-price"><span class=money>$100.00</span></span>
+      <span class="special-price"> <span class=money>$77.00</span></span>
+    </div>
+
+    <div class="actions">
+    <button type="submit" class="btn"></i><span>BID</span></button>
+  </div>
+
+</div>
+</div>
+</div> -->
+
+</form>
+</div>
+</div>
+</div>
+<br/>
+<div class="col-md-12 col-lg-3 hidden-quickview">
+  <center><h2 itemprop="name" class="product-name">BidCups สินค้าราคาถูก</h2></center>
+  <div><a class="btn btn-lg" style="width:300px;" href="/account/register"><i class="icon icon-user"></i><span>Create account</span></a></div>
+</div>
+
+<div class="col-md-12 col-lg-3 hidden-quickview">
+  <center><h2 itemprop="name" class="product-name">History Auction</h2></center>
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th><h3>Price</h3></th>
+        <th><h3>Winner</h3></th>
+        <th><h3>Time</h3></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><h4>100</h4></td>
+        <td><h4>Doe</h4></td>
+        <td><h4>19:30:11</h4></td>
+      </tr>
+      <tr>
+        <td><h4>100</h4></td>
+        <td><h4>Doe</h4></td>
+        <td><h4>19:30:11</h4></td>
+      </tr>
+      <tr>
+        <td><h4>100</h4></td>
+        <td><h4>Doe</h4></td>
+        <td><h4>19:30:11</h4></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+</div>
+</div>
+</div>
 
 
 
 
+<div class="block">
+  <div class="tabaccordion">
+    <div class="container">
+      <!-- Nav tabs -->
+      <ul class="nav-tabs product-tab" role="tablist">
 
 
 
 
+        <li class="active"><a href="#Tabproduct_tab_title_1" role="tab" data-toggle="tab">Description</a></li>
 
 
 
 
+        <!-- <li ><a href="#Tabproduct_tab_title_2" role="tab" data-toggle="tab">Sizing Guide</a></li>
 
 
 
 
+        <li ><a href="#Tabproduct_tab_title_3" role="tab" data-toggle="tab">Custom Tab</a></li>
 
 
 
 
+        <li ><a href="#Tabproduct_tab_title_4" role="tab" data-toggle="tab">Assigned tags</a></li>
 
 
 
 
-<script type="text/javascript">
-  $(function(){
-    productsCarousel($('.carousel_2.products-carousel'),1,4,1);
-  })
-  </script>
-
-  <script>
-  $options=$('.product-options');
-  $select=$('select',$options);
-  $ul=$('ul',$options);
-  function updateSelectOptionsDisabling(){
-    $('option',$select.not(':first')).attr("disabled","disabled");
-    for(a in product_options[$select.first().val()]){
-      $('option[value='+a+']',$select).removeAttr("disabled","disabled");
-      for(b in product_options[$select.first().val()][a]){
-        $('option[value='+b+']',$select).removeAttr("disabled","disabled");
-      }
-    }
-  }
-  function updateListOptionsDisabling(){
-    for(a in product_options[$('li.active a',$ul.first()).data('value')]){
-      $('a[data-value='+a+']',$ul).parent().removeClass("absent-option");
-      for(b in product_options[$('li.active a',$ul.first()).data('value')][a]){
-        $('a[data-value='+b+']',$ul).parent().removeClass("absent-option");
-      }
-    }
-  }
-
-  $(function($) {
+        <li ><a href="#Tabproduct_tab_title_5" role="tab" data-toggle="tab">Reviews</a></li> -->
 
 
-    if(inIframe())
-    {
-      setTimeout(function(){
-        if ($(".product-previews-carousel").length) {
-          var $this = $(".product-previews-carousel");
-          $this.imagesLoaded(function() {
-            $this.slick({
-              slidesToShow: 3,
-              slidesToScroll: 1,
-              dots: false,
-              focusOnSelect: true,
-              infinite: false
-            });
-          })
-          $this.on('click', '.slick-slide', function() {
-            $('.zoom-link').removeClass('disable-gallery');
-          })
-        }
-      },1400)
-    }else{
-      if ($(".product-previews-carousel").length) {
-        var $this = $(".product-previews-carousel");
-        $this.imagesLoaded(function() {
-          $this.slick({
-            slidesToShow: 3,
-            slidesToScroll: 1,
-            dots: false,
-            focusOnSelect: true,
-            infinite: false
-          });
-        })
-        $this.on('click', '.slick-slide', function() {
-          $('.zoom-link').removeClass('disable-gallery');
-        })
-      }
-    }
 
-    updateSelectOptionsDisabling();
-    $select.first().addClass('first');
-    $ul.first().addClass('first');
-    $select.change(function(){
-      updateSelectOptionsDisabling();
-      if($(this).hasClass('first'))
-      {
-        for (var first_option_to_select in product_options[$select.first().val()])break;
-        $('option',$select.not(':first')).removeAttr("selected");
-        $('option[value='+first_option_to_select+']',$select.not(':first')).attr("selected","selected");
-      }
-      updateData('select');
-      Currency.convertAll('USD', Currency.cookie.read());
-    })
+      </ul>
+      <!-- Tab panes -->
+
+      <div class="tab-content">
+
+        <div role="tabpanel" class="tab-pane active" id="Tabproduct_tab_title_1">
+
+          <!--description-->
+
+          <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful</p>
 
 
-    function setFixedAbsent(){
-      $('li',$ul).addClass("absent-option");
-      $('li',$ul.first()).removeClass('absent-option');
-      first_active=$('li.active a',$ul.first()).data('value');
-      $('a',$ul).each(function(){
-        val=$(this).data('value');
-        if($(this).closest('ul').data('index')!=0)
-        for (b in product_options[first_active])
-        for (c in product_options[first_active][b])
-        {
-          switch($(this).closest('ul').data('index')) {
-            case 1:
-            if(product_options[first_active]!=undefined && product_options[first_active][val]!=undefined)
-            $('a[data-value='+val+']',$ul).parent().removeClass('absent-option');
-            break;
-            case 2:
-            if(product_options[first_active]!=undefined && product_options[first_active][b]!=undefined && product_options[first_active][b][val]!=undefined)
-            $('a[data-value='+val+']',$ul).parent().removeClass('absent-option');
-          }
-        }
-      })
-    }
+        </div>
 
 
-    $('a',$ul).click(function(e){
-      $('li',$(this).parent()).removeClass('active');
-      $('li.active.absent-option',$ul).each(function(){
-        $(this).removeClass('active').siblings().not('.absent-option').first().addClass('active');
-      });
-      $(this).parent().addClass('active');
-      updateData('ul > li.active > a');
-      Currency.convertAll('USD', Currency.cookie.read());
-      e.preventDefault();
-    })
+      </main>
 
 
-    $('a',$ul)
-    .mouseenter(function() {
-      val=$(this).data('value');
-      $('li',$ul).addClass("absent-option");
-      $(this).parent().removeClass('absent-option').siblings().removeClass('absent-option');
-      for (a in product_options)
-      for (b in product_options[a])
-      for (c in product_options[a][b])
-      {
-        switch($(this).closest('ul').data('index')) {
-          case 0:
-          if(product_options[val]!=undefined && product_options[val][b]!=undefined && product_options[val][b][c]!=undefined)
-          $('a[data-value='+b+'],a[data-value='+c+']',$ul).parent().removeClass('absent-option');
-          break;
-          case 1:
-          if(product_options[a]!=undefined && product_options[a][val]!=undefined && product_options[a][val][c]!=undefined)
-          $('a[data-value='+a+'],a[data-value='+c+']',$ul).parent().removeClass('absent-option');
-          break;
-          default:
-          if(product_options[a]!=undefined && product_options[a][b]!=undefined && product_options[a][b][val]!=undefined)
-          $('a[data-value='+a+'],a[data-value='+b+']',$ul).parent().removeClass('absent-option');
-        }
-      }
-    })
-    .mouseleave(function() {
-      $('li',$ul).removeClass("absent-option");
-      setFixedAbsent();
-    });
-
-    setFixedAbsent();
-
-    $('.add_to_cart_product_page').on('click',function(e){
-      $(this).addClass('btn-loading').addClass('disabled').blur().html('<i class="icon icon-spinner spin"></i><span>Adding...</span>');
-      if($('.toggleStack'.length))$('.toggleStack').click();
-      parent.CartJS.addItem($('input[name=id]').val(), $('[name=quantity]').val(),{}, {
-        "success": function(data, textStatus, jqXHR) {
-          if($('.add_to_cart_product_page').length){
-            setTimeout(function(){
-              $('.add_to_cart_product_page').removeClass('btn-loading').removeClass('disabled');
-              $('.add_to_cart_product_page').html("<i class='icon icon-cart'></i><span>Added</span>");
-            },1000)
-            setTimeout(function(){
-              $('.add_to_cart_product_page').html("<i class='icon icon-cart'></i><span>Add to Cart</span>");
-            },2000)
-            setTimeout(function(){
-              $('.toggleStack').click();
-            },3000)
-          }
-        },
-        "error": function(jqXHR, textStatus, errorThrown) {
-          $('#modalError .modal-body p').text(errorThrown);
-          $('#modalError').modal('show');
-        }
-      });
-      e.preventDefault();
-    })
-
-
-  });
-
-  $(window.parent).on('cart.requestComplete', function(event, cart) {
-    parent.cartPopupUpdate();
-    parent.productStackUpdate();
-  });
-
-  </script>
-
-</main>
-
-
-<?php include('footer.php');?>
+      <?php include('footer.php');?>

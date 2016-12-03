@@ -1,4 +1,4 @@
-<div id="loader-wrapper">
+<!-- <div id="loader-wrapper">
   <div class="cube-wrapper">
     <div class="cube-folding">
       <span class="leaf1"></span>
@@ -7,7 +7,8 @@
       <span class="leaf4"></span>
     </div>
   </div>
-</div>
+</div> -->
+
 <!-- /Loader -->
 
 <div id="wrapper">

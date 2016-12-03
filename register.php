@@ -5,13 +5,7 @@
 
 <div class="block">
   <div class="container">
-    <ul class="breadcrumbs">
-      <li><a href="/"  title="Back to the frontpage"><i class="icon icon-home"></i></a></li>
-      <li>
-
-        <span>Create Account</span>
-      </li>
-    </ul>
+    
   </div>
 </div>
 
@@ -71,7 +65,7 @@
                         <button type="submit" class="btn btn-info pull-right">Submit</button>
                     </div>
                 </div>
-                
+
           </form>
     </div>
 
