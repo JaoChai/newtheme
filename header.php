@@ -48,7 +48,7 @@
   <link href="//cdn.shopify.com/s/files/1/1323/8471/t/12/assets/custom_colors.css?18321598552377106331" rel="stylesheet" type="text/css" media="all" />
   <!-- Icon Font -->
 
-  <link href="//cdn.shopify.com/s/files/1/1323/8471/t/12/assets/font-icomoon.css?18321598552377106331" rel="stylesheet" type="text/css" media="all" />
+  <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
   <script src="//cdn.shopify.com/s/files/1/1323/8471/t/12/assets/html5shiv.min.js?18321598552377106331" type="text/javascript"></script>
   <script src="//cdn.shopify.com/s/files/1/1323/8471/t/12/assets/respond.min.js?18321598552377106331" type="text/javascript"></script>
   <script src="//cdn.shopify.com/s/files/1/1323/8471/t/12/assets/jquery.js?18321598552377106331" type="text/javascript"></script>

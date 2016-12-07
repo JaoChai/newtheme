@@ -40,7 +40,7 @@
             <!-- Header Account -->
             <div class="header-link dropdown-link header-account">
 
-              <a><i class="icon icon-user"></i></a>
+              <a><i class="fa fa-user-circle fa-2x"></i></a>
               <div class="dropdown-container right">
                 <form method="post" action="https://seikostore-default.myshopify.com/account/login" id="customer_login" accept-charset="UTF-8"><input type="hidden" value="customer_login" name="form_type" /><input type="hidden" name="utf8" value="✓" />
                   <div class="title">Registered</div>
@@ -55,11 +55,24 @@
                 </form>
               </div>
             </div>
+
+
+
+            <div class="header-link dropdown-link header-account">
+
+              <a>
+              <i class="fa fa-gavel fa-2x"></i>
+               <span class="badge">1</span>
+              </a>
+
+            </div>
+
+
             <!-- /Header Account -->
           </div>
           <!-- /Header Links -->
 
-          <div class="header-link header-search header-search">
+          <!-- <div class="header-link header-search header-search">
             <div class="exp-search">
               <form  action="/search">
                 <input name="q" class="exp-search-input " placeholder="Search here ..." type="text" value="">
@@ -68,7 +81,7 @@
                 <span class="exp-search-close"><i class="icon icon-close"></i></span>
               </form>
             </div>
-          </div>
+          </div> -->
 
           <!-- Logo -->
 
