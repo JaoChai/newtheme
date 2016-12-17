@@ -1,23 +1,19 @@
 <footer class="page-footer variant4 fullboxed">
-    <div class="footer-top bg"  data-bg="//cdn.shopify.com/s/files/1/1323/8471/t/12/assets/footer_bg_parallax.jpg?18321598552377106331">
+    <!-- <div class="footer-top bg"  data-bg="//cdn.shopify.com/s/files/1/1323/8471/t/12/assets/footer_bg_parallax.jpg?18321598552377106331">
         <div class="container">
             <div class="row">
-              <div class="col-md-4">
-                  <h3>Facebook</h3>
+              <div class="col-md-12">
+
+
+                  <div class="fb-page" data-href="https://www.facebook.com/BidCups-622348437948358/" data-tabs="timeline" data-width="3000" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/BidCups-622348437948358/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/BidCups-622348437948358/">BidCups</a></blockquote></div>
+
+
               </div>
 
-                <div class="col-md-4">
-                  <h3>GOOGLE+</h3>
-                </div>
-
-
-                <div class="col-md-4">
-                    <h3>Twitter</h3>
-                </div>
 
             </div>
         </div>
-    </div>
+    </div> -->
 
     <div class="footer-middle">
         <div class="container">

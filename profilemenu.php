@@ -24,13 +24,13 @@
           </li>
 
           <li>
-            <a href="#">
+            <a href="auctionwinner.php">
             Auction Winner
           </a>
           </li>
 
           <li>
-            <a href="#">
+            <a href="auctionhistory.php">
              Auction History
           </a>
           </li>

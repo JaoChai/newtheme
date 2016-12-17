@@ -17,7 +17,7 @@
     </li>
 
     <li>
-      <a href="#" title="">First BidCups</a>
+      <a href="#" title="">How To Auction</a>
     </li>
 
     <li>

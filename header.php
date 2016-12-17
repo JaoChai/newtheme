@@ -61,6 +61,17 @@
   <script src="//cdn.shopify.com/s/files/1/1323/8471/t/12/assets/isotope.pkgd.min.js?18321598552377106331" type="text/javascript"></script>
   <script src="//cdn.shopify.com/s/files/1/1323/8471/t/12/assets/jquery-scrollLock.min.js?18321598552377106331" type="text/javascript"></script>
 
+
+                  <div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = "//connect.facebook.net/th_TH/sdk.js#xfbml=1&version=v2.8";
+                    fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+
+
   <script>
   //<![CDATA[
   var Shopify = Shopify || {};
