@@ -24,20 +24,42 @@
         <h2>สินค้าที่คุณประมูลชนะ</h2>
         <div class="table-responsive">
           <table class="table table-bordered">
-            <tbody>
+
+            <thead>
 
               <tr>
-                <td><strong>1</strong></td>
-                <td><strong>100 Bids<strong></td>
+                <th>รูปภาพ</th>
+                <th>รายละเอียด</th>
+                <th>ชนะวันที่</th>
+                <th>ราคาที่บิทได้</th>
+                <th>กระทำ</th>
               </tr>
+
+            </thead>
+
+              <tbody>
+
+
+
+              </tbody>
 
             </tbody>
           </table>
+
+
         </div>
 
       </div>
     </div>
   </div>
+</div>
+
+
+
+
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
