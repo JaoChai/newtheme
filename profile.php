@@ -21,12 +21,27 @@
     <?php include('profilemenu.php');?>
     <div class="col-md-9">
       <div>
-        <h2>Data User</h2>
+        <h2>กรุณาเลือก ธนาคารที่จะชำระเงิน</h2>
+
+        <div><b>จำนวนเงินที่ต้อง ชำระ : ผลรับตรงนี้เอาเป็นสีแดง</b><div>
+
+          <br/>
+        <div class="col-md-6">
+          <img class="img-responsive" src="assets/images/กสิกรไทย.png">
+          <img class="img-responsive" src="assets/images/กรุงไทย.png">
+        <div>
 
 
       </div>
     </div>
+
+    <div class="col-md-6">
+        <img class="img-responsive" src="assets/images/กรุงเทพ.png">
+        <img class="img-responsive" src="assets/images/ไทยพาณิชย์.png">
+    </div>
+
   </div>
+  <button class="btn" style="float: right; width:130px;">แจ้งการชำระเงิน</button>
 </div>
 </div>
 </div>
